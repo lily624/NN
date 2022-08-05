@@ -1,0 +1,2 @@
+# NN
+For self leanring 
